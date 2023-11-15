@@ -22,6 +22,9 @@
             let blogEntry = document.getElementById("entry").value;
             localStorage.setItem("ls_entry", blogEntry);
         }
+        let load = (blogEntry) => {
+            console.log(localStorage.getItem(blogEntry).value);
+        }
 
     </script>
 </body>
