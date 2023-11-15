@@ -26,7 +26,8 @@
             let blogEntry = document.getElementById("entry").value;
             localStorage.setItem("entry", blogEntry);
             const func1 = () => p.innerHTML = localStorage.getItem("entry");
-            btn.addEventListener('click', func1)
+            func1();
+            // btn.addEventListener('click', func1)
 
         }
     </script>
