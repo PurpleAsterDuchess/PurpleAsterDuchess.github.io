@@ -23,7 +23,12 @@
         let save = (event) => {
             event.preventDefault();
             let blogEntry = document.getElementById("entry").value;
-            localStorage.setItem("ls_entry", blogEntry);
+            // localStorage.setItem("ls_entry", blogEntry);
+            const btn = document.getElementById('done');
+            const out = document.getElementById('output1')
+            const func1 = () => out.innerHTML = blogEntry.value;
+            btn.addEventListener('click', func1)
+
         }
     </script>
 </body>
