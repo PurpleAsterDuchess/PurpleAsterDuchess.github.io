@@ -21,10 +21,11 @@
 
     <script type="text/javascript">
         let save = (event) => {
+            let p = document.querySelector("p");
             event.preventDefault();
             let blogEntry = document.getElementById("entry").value;
             localStorage.setItem("entry", blogEntry);
-            const func1 = () => console.log(localStorage.getItem("value"));
+            const func1 = () => p.innerHTML = localStorage.getItem("entry");
             btn.addEventListener('click', func1)
 
         }
