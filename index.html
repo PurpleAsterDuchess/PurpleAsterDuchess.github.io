@@ -15,6 +15,9 @@
             <textarea name="entry" id="entry" cols="30" rows="10"></textarea>
             <input type="submit" name="done" id="done" value="Submit">
     </form>
+    <div>
+        <p class="output" id="output1"></p>
+    </div>
 
     <script type="text/javascript">
         let save = (event) => {
@@ -22,8 +25,6 @@
             let blogEntry = document.getElementById("entry").value;
             localStorage.setItem("ls_entry", blogEntry);
         }
-        localStorage.getItem("entry", blogEntry);
-        console.log(userData);
     </script>
 </body>
 </html>
