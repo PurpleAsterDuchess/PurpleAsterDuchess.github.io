@@ -1,0 +1,15 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: monospace, sans-serif ;
+    font-size: 20px;
+}
+h1 {
+    background-color: #808080;
+    text-align: center;
+    position: relative;
+}
+
+#done {
+    position: relative;
+}
