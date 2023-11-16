@@ -10,6 +10,9 @@ h1 {
     position: relative;
 }
 
+entry {
+    padding:12px;
+}
 
 #done {
     position: relative;

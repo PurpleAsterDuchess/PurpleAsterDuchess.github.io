@@ -10,24 +10,32 @@
 </head>
 <body>
     <h1 class="title">My Blog</h1>
-    <form method="post" autocomplete="off" target="_blank" onsubmit="save(event)">
+    <form method="post" 
+          autocomplete="off" 
+          target="_blank" 
+          onsubmit="publish(event)">
         <label for="entry">What did you do today?</label><br>
-            <textarea name="entry" id="entry" cols="30" rows="10"></textarea>
-            <input type="submit" name="done" id="done" value="Submit">
+            <textarea name="entry"
+                      id="entry" 
+                      cols="30" 
+                      rows="10"></textarea>
+            <input type="submit" 
+                   name="done" 
+                   id="done" 
+                   value="Submit">
     </form>
     <div>
         <p class="output" id="output1"></p>
     </div>
 
     <script type="text/javascript">
-        let save = (event) => {
+        let publish = (event) => {
             event.preventDefault();
             let blogEntry = document.getElementById("entry").value;
             localStorage.setItem("entry", blogEntry);
             const p = document.getElementById("p").value;
             const func1 = () => p.innerHTML = localStorage.getItem("entry");
             btn.addEventListener('click', func1)
-
         }
     </script>
 </body>
