@@ -11,7 +11,8 @@ h1 {
 }
 
 entry {
-    padding:50px;
+    padding:0px;
+    margin:50px;
 }
 
 #done {
