@@ -6,18 +6,10 @@ body {
 }
 h1 {
     background-color: #808080;
-    color:aqua;
     text-align: center;
     position: relative;
 }
 
-entry {
-    padding:0px;
-    margin:0 0 -8px -1px;
-    width: 100%;
-    height: 100%;
-    background-color: #808080;
-}
 
 #done {
     position: relative;
