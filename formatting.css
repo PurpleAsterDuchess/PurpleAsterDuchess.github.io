@@ -1,7 +1,7 @@
 body {
     background-color: #000000;
     color: #ffffff;
-    font-family: monospace, sans-serif ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     padding:15px
 }
@@ -10,6 +10,7 @@ h1 {
     text-align: center;
     position: relative;
     margin-top: -1px;
+    border-radius: 8px;
 }
 
 .inputs {
@@ -21,8 +22,20 @@ textarea {
     vertical-align: left;
     resize:none;
     display: inline;
- }
+    border-radius: 8px;
+}
+
+#counter {
+    color: grey;
+    float:right;
+    padding: 0.1rem 0 0 0;
+    font-size:0.875;
+}
 
 #done {
     position: relative;
+    border-radius: 8px;
+    width:5%;
+    min-width: 58px;
+    height:auto;
 }
