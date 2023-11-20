@@ -12,22 +12,16 @@
     <h1 class="title">My Blog</h1>
     <form method="post" autocomplete="off" target="_blank" onsubmit="save(event)">
         <label for="entry" class="inputs">What did you do today?</label><br>
-            <textarea name="entry" id="entry" rows="12" style="width:80%" class="inputs"></textarea><br>
-            <input type="submit" name="done" id="done" value="Submit">
+            <textarea name="entry" id="entry" rows="12" style="width:100%" class="inputs"></textarea><br>
+            <input type="submit" name="done" id="done" value="Submit" onclick="newElement()">
+        <label for="characters">Char:</label>
+
     </form>
     <div>
         <p class="output" id="output1"></p>
     </div>
 
-    <script type="text/javascript">
-        let save = (event) => {
-            event.preventDefault();
-            let blogEntry = document.getElementById("entry").value;
-            localStorage.setItem("entry", blogEntry);
-            const p = document.getElementById("output1");
-            const func1 = () => p.innerHTML = localStorage.getItem("entry");
-            done.addEventListener('click', func1)
-        }
-    </script>
+    <script src="index.js"></script>
+    
 </body>
 </html>
