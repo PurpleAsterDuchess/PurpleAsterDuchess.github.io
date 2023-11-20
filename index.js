@@ -7,12 +7,7 @@ const save = (event) => {
     done.addEventListener('click', func1)
 };
 
-const countingChar = () => {
-    $('textarea').keyup(function() {
-        let charCount = $(this).val().length,
-        current = $('#current'),
-        max = $('#maximum'),
-        count = $('#counter');
-    })
-    current.text(charCount)
+function countText () {
+    let text = document.getElementById("entry").value;
+    document.getElementById('current').innerText = text.length;
 }

@@ -11,14 +11,14 @@
 
 <body>
     <h1 class="title">My Blog</h1>
-    <form method="post" autocomplete="off" target="_blank" onsubmit="save(event)">
+    <form name="form" method="post" autocomplete="off" target="_blank" onsubmit="save(event)">
         <label for="entry" class="inputs">What did you do today?</label><br>
-            <textarea name="entry" id="entry" rows="12" style="width:100%" class="inputs" maxlength="300" autofocus></textarea><br>
-            <div id="counter">
-                <span id="current">0</span>
-                <span id="maximum">/ 300</span>
-            </div>
+            <textarea name="entry" id="entry" rows="12" style="width:100%" class="inputs" maxlength="300" oninput="countText()"></textarea><br>
             <input type="submit" name="done" id="done" value="Submit">
+        <div id="counter">
+            <span id="current">0</span>
+            <span id="maximum">/ 300</span>
+        </div>
     </form>
     <div>
         <p class="output" id="output1"></p>
