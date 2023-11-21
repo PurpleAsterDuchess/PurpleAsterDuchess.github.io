@@ -11,9 +11,11 @@
 
 <body>
     <h1 class="title">My Blog</h1>
-    <form name="form" method="post" autocomplete="off" target="_blank" onsubmit="save(event)">
+    <form name="form" method="post" autocomplete="off" target="_blank" onsubmit="newElement()">
         <label for="entry" class="inputs">What did you do today?</label><br>
-            <textarea name="entry" id="entry" rows="12" style="width:100%" class="inputs" maxlength="300" oninput="countText()"></textarea><br>
+            <div class="grow-wrap">
+            <textarea name="entry" id="entry" class="inputs" maxlength="300" oninput="countText()"></textarea>
+            </div>
             <input type="submit" name="done" id="done" value="Submit">
         <div id="counter">
             <span id="current">0</span>
@@ -21,7 +23,7 @@
         </div>
     </form>
     <div>
-        <p class="output" id="output1"></p>
+        <ul class="output" id="output1"></ul>
     </div>
 
     <script src="index.js"></script>

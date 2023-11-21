@@ -20,9 +20,19 @@ h1 {
 
 textarea {
     vertical-align: left;
-    resize:none;
+    resize:vertical;
+    height:auto;
+    min-height: 25px;
+    width:100%;
+    overflow:hidden;
     display: inline;
     border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+label {
+  display: block;
 }
 
 #counter {
