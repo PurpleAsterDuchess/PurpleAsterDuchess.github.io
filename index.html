@@ -11,11 +11,12 @@
 
 <body>
     <h1 class="title">My Blog</h1>
+    <iframe name="hiddenFrame" width="0" height="0" border="0" style="display: none;"></iframe>
     <form name="form" 
           method="post" 
           autocomplete="off" 
-          target="_blank" 
-          onsubmit="newElement()">
+          target="hiddenFrame"
+          onsubmit="saveEntry()">
         <label for="entry" 
                class="inputs">What did you do today?</label><br>
             <div class="grow-wrap">
@@ -25,6 +26,7 @@
                       maxlength="300" 
                       oninput="countText()"></textarea>
             </div>
+            <input type="date" id="when" name="when">
             <input type="submit"
                    name="done" 
                    id="done" 
@@ -35,8 +37,10 @@
         </div>
     </form>
     <div>
-        <ul class="output"
-            id="output1"></ul>
+        <ol class="output"
+            id="output1"></ol>
+        <ol class="output"
+            id="output2"></ol>
     </div>
 
     <script src="index.js"></script>

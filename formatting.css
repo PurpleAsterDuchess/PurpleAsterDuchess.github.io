@@ -27,7 +27,7 @@ textarea {
     overflow:hidden;
     display: inline;
     border-radius: 8px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: inherit;
     font-size: 20px;
 }
 
@@ -48,4 +48,24 @@ label {
     width:5%;
     min-width: 58px;
     height:auto;
+    background-color:lightgrey;
+}
+
+#when {
+    border-radius: 8px;
+    font-family: inherit;
+    width:105px;
+    background-color:lightgrey;
+}
+
+.output {
+    list-style-type: none;
+}
+
+#output1 {
+    float: left;
+}
+
+#output2 {
+    float: right;
 }
