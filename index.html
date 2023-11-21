@@ -11,19 +11,32 @@
 
 <body>
     <h1 class="title">My Blog</h1>
-    <form name="form" method="post" autocomplete="off" target="_blank" onsubmit="newElement()">
-        <label for="entry" class="inputs">What did you do today?</label><br>
+    <form name="form" 
+          method="post" 
+          autocomplete="off" 
+          target="_blank" 
+          onsubmit="newElement()">
+        <label for="entry" 
+               class="inputs">What did you do today?</label><br>
             <div class="grow-wrap">
-            <textarea name="entry" id="entry" class="inputs" maxlength="300" oninput="countText()"></textarea>
+            <textarea name="entry"
+                      id="entry" 
+                      class="inputs" 
+                      maxlength="300" 
+                      oninput="countText()"></textarea>
             </div>
-            <input type="submit" name="done" id="done" value="Submit">
+            <input type="submit"
+                   name="done" 
+                   id="done" 
+                   value="Submit">
         <div id="counter">
             <span id="current">0</span>
             <span id="maximum">/ 300</span>
         </div>
     </form>
     <div>
-        <ul class="output" id="output1"></ul>
+        <ul class="output"
+            id="output1"></ul>
     </div>
 
     <script src="index.js"></script>

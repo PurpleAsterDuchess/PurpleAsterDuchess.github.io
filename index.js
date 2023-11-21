@@ -7,12 +7,12 @@
 //     done.addEventListener('click', func1)
 // };
 
-function countText () {
+const countText = () => {
     let text = document.getElementById("entry").value;
     document.getElementById('current').innerText = text.length;
 }
 
-function newElement() {
+const newElement = () => {
     let li = document.createElement("li");
     let inputValue = document.getElementById("entry").value;
     let t = document.createTextNode(inputValue);
