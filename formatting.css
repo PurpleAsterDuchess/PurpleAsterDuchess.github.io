@@ -13,7 +13,7 @@ body {
 
 
 h1 {
-    background-color: #DBCDF0;
+    background-color: #8CBFE9;
     text-align: center;
     position: relative;
     margin-top: -1px;
@@ -54,11 +54,11 @@ label {
 #done {
     position: relative;
     border-radius: 8px;
-    border-color: #DBCDF0;
+    border-color: #8CBFE9;
     width:5%;
     min-width: 58px;
     height:auto;
-    background-color:#DBCDF0;
+    background-color:#8CBFE9;
 }
 
 #when {
@@ -66,7 +66,12 @@ label {
     border-color: #C6DEF1;
     font-family: inherit;
     width:110px;
-    background-color:#DBCDF0;
+    background-color:#8CBFE9;
+}
+.container {
+    margin-top: 12px;
+    border-radius: 8px;
+    background-color: #F2C6DE;
 }
 
 /* .container{
@@ -89,7 +94,6 @@ label {
 
 li {
     text-align: left;
-    margin-right: auto;
 }
 
 li:last-child {
@@ -98,22 +102,22 @@ li:last-child {
 
 .inputs:focus {
     outline: none !important;
-    border:3px solid #DBCDF0;
+    border:3px solid #8CBFE9;
     box-shadow: 0 0 1px #FAEDCB;
 }
 
 #when:focus {
     outline: none !important;
-    border:3px solid #DBCDF0;
+    border:3px solid #8CBFE9;
     box-shadow: 0 0 1px #FAEDCB;
 }
 
 #when:hover {
-    background-color: #F2C6DE;
+    background-color: #DBCDF0;
 }
 
 #done:hover {
-    background-color: #F2C6DE;
+    background-color: #DBCDF0;
 }
 
 /* Style the navigation menu */

@@ -65,8 +65,8 @@ const navbar = () => {
 
 /* Set the width of the side navigation to 250px */
 function openNav() {
-    document.getElementById("sidenav").style.width = "fit-content";
-    document.getElementById("main").style.marginLeft = "fit-content";
+    document.getElementById("sidenav").style.width = "10%";
+    document.getElementById("main").style.marginLeft = "10%";
     document.getElementById("main").style.opacity = "0.5";
 }
 
