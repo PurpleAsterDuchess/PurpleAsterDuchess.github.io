@@ -43,7 +43,7 @@ const saveEntry = () => {
             alert("You must write something!");
         } else {
             document.getElementById("output1").appendChild(li);
-            document.getElementById("output2").appendChild(li2);
+            document.getElementById("output1").appendChild(li2);
         }
         document.getElementById("entry").value = "";
         
@@ -52,3 +52,4 @@ const saveEntry = () => {
 
     countText();
 }
+

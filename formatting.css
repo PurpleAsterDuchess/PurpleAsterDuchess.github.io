@@ -54,18 +54,32 @@ label {
 #when {
     border-radius: 8px;
     font-family: inherit;
-    width:105px;
+    width:110px;
     background-color:lightgrey;
 }
 
+/* .container{
+    display: inline-grid;
+    width:100%;
+    height: fit-content;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;    
+    border: 1px solid #eee;
+    overflow:auto;
+} */
 .output {
-    list-style-type: none;
+    font-style: italic;
+    list-style: none;
+    padding:5px;
+    display: inline-grid;
+    grid-template-rows: auto;
 }
 
-#output1 {
-    float: left;
+li {
+    text-align: left;
+    margin-right: auto;
 }
 
-#output2 {
-    float: right;
+li:last-child {
+    grid-column: blogEntry;
 }
