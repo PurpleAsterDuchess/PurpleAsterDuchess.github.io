@@ -121,6 +121,7 @@ li:last-child {
     padding-top: 60px;
     background-color: #C9E4DE;
     border-radius: 8px;
+    transition: 0.5s;
 }
   
 /* Hide the links inside the navigation menu (except for logo/home) */
@@ -135,7 +136,8 @@ li:last-child {
     text-decoration: none;
     font-size: 17px;
     display: block;
-    }
+    transition: 0.5s;
+}
 
 /* Style the hamburger menu */
 .sidenav a.icon {
@@ -167,6 +169,7 @@ li:last-child {
 }
 
 #main {
+    transition: margin-left.5s;
     padding: 20px;
 }
 
@@ -175,7 +178,7 @@ button {
     background-color: inherit;
     border: inherit;
     color: inherit;
-}
+    }
 
 button:hover {
     background-color: #C9E4DE;
