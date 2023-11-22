@@ -1,0 +1,23 @@
+.links a {
+    background-color: #C9E4DE;
+    color: #5c5431;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 25px;
+}
+
+.links a:hover {
+    background-color: #FAEDCB;
+    color: black;
+}
+
+#random {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 40%;
+}

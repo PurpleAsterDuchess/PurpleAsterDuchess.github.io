@@ -7,7 +7,8 @@
     <title>Blog</title>
     <link rel="stylesheet" 
           href="formatting.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" 
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </head>
 
@@ -15,8 +16,12 @@
     <!-- Top Navigation Menu -->
     <div id="sidenav" class="sidenav">
         <div id="myLinks"></div>
-            <a href="javascript:void(0);" class="active" onclick="closeNav()">&times;</a>
-            <img id="image" src="random.png">
+            <img id="image"
+                src="bear.png" 
+                alt="bear">
+            <a href="javascript:void(0);" 
+               class="active" 
+               onclick="closeNav()">&times;</a>
             <a href="./homepage.html">Home</a>
             <a href="#contact">Contact</a>
             <a href="#about">About</a>
@@ -25,7 +30,10 @@
         
     </div>
     <div id="main">
-        <h1 class="title">My Blog</h1>
+        <div id="header">
+            <h1 class="title">My Blog</h1>
+        </div>
+        
         <iframe name="hiddenFrame" width="0" height="0" border="0" style="display: none;"></iframe>
         <form name="form" 
             method="post" 
