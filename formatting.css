@@ -1,12 +1,12 @@
 body {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #C6DEF1;
+    color: #5c5431;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     padding:15px
 }
 h1 {
-    background-color: #808080;
+    background-color: #DBCDF0;
     text-align: center;
     position: relative;
     margin-top: -1px;
@@ -27,6 +27,8 @@ textarea {
     overflow:hidden;
     display: inline;
     border-radius: 8px;
+    border-color: #C6DEF1;
+    border-width: 3px;
     font-family: inherit;
     font-size: 20px;
 }
@@ -36,7 +38,7 @@ label {
 }
 
 #counter {
-    color: grey;
+    color: #5c5431;
     float:right;
     padding: 0.1rem 0 0 0;
     font-size:0.875;
@@ -45,17 +47,19 @@ label {
 #done {
     position: relative;
     border-radius: 8px;
+    border-color: #DBCDF0;
     width:5%;
     min-width: 58px;
     height:auto;
-    background-color:lightgrey;
+    background-color:#DBCDF0;
 }
 
 #when {
     border-radius: 8px;
+    border-color: #C6DEF1;
     font-family: inherit;
     width:110px;
-    background-color:lightgrey;
+    background-color:#DBCDF0;
 }
 
 /* .container{
@@ -73,6 +77,7 @@ label {
     padding:5px;
     display: inline-grid;
     grid-template-rows: auto;
+    gap: 2%;
 }
 
 li {
@@ -82,4 +87,101 @@ li {
 
 li:last-child {
     grid-column: blogEntry;
+}
+
+.inputs:focus {
+    outline: none !important;
+    border:3px solid #DBCDF0;
+    box-shadow: 0 0 1px #FAEDCB;
+}
+
+#when:focus {
+    outline: none !important;
+    border:3px solid #DBCDF0;
+    box-shadow: 0 0 1px #FAEDCB;
+}
+
+#when:hover {
+    background-color: #F2C6DE;
+}
+
+#done:hover {
+    background-color: #F2C6DE;
+}
+
+/* Style the navigation menu */
+.sidenav {
+    height:100%;
+    width:fit-content;
+    position:fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 60px;
+    background-color: #C9E4DE;
+    border-radius: 8px;
+}
+  
+/* Hide the links inside the navigation menu (except for logo/home) */
+.sidenav #myLinks {
+    display: none;
+}
+
+/* Style navigation menu links */
+.sidenav a {
+    color: #5c5431;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    }
+
+/* Style the hamburger menu */
+.sidenav a.icon {
+    background: #C9E4DE;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.sidenav a:hover {
+    background-color: #FAEDCB;
+    color: black;
+}
+  
+/* Style the active link (or home/logo) */
+.active {
+    background-color: #C9E4DE;
+    color: white;
+    float: inline-end;
+}
+
+.sidenav .icon {
+    position:absolute;
+    top: 0;
+    right:25px;
+    margin-left: 50px;
+}
+
+#main {
+    padding: 20px;
+}
+
+button {
+    font: inherit;
+    background-color: inherit;
+    border: inherit;
+    color: inherit;
+}
+
+button:hover {
+    background-color: #C9E4DE;
+}
+
+#image {
+    height: 5%;
+    width:auto;
 }

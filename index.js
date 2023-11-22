@@ -37,13 +37,13 @@ const saveEntry = () => {
     } else {
         let li = document.createElement("li");
         let inputValue = document.getElementById("entry").value;
-        let t = document.createTextNode(inputValue);
+        let t = document.createTextNode(inputValue.charAt(0).toUpperCase() + inputValue.slice(1));
         li.appendChild(t);
         if (inputValue === '') {
             alert("You must write something!");
         } else {
-            document.getElementById("output1").appendChild(li);
             document.getElementById("output1").appendChild(li2);
+            document.getElementById("output1").appendChild(li);
         }
         document.getElementById("entry").value = "";
         
@@ -53,3 +53,24 @@ const saveEntry = () => {
     countText();
 }
 
+/* Toggle between showing and hiding the navigation menu links when the user clicks on the hamburger menu / bar icon */
+const navbar = () => {
+    const links = document.getElementById("myLinks");
+    if (links.style.display === "block") {
+        links.style.display = "none";
+    } else {
+        links.style.display = "block";
+    }
+  }
+
+/* Set the width of the side navigation to 250px */
+function openNav() {
+    document.getElementById("sidenav").style.width = "250px";
+    document.getElementById("myLinks").style.marginLeft = "250px";
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+    document.getElementById("sidenav").style.width = "0";
+    document.getElementById("myLinks").style.marginLeft = "0";
+}
