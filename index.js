@@ -66,8 +66,8 @@ const navbar = () => {
 /* Set the width of the side navigation to 250px */
 function openNav() {
     if (window.innerWidth > 721) {
-        document.getElementById("sidenav").style.width = "10%";
-        document.getElementById("main").style.marginLeft = "10%";
+        document.getElementById("sidenav").style.width = "15%";
+        document.getElementById("main").style.marginLeft = "15%";
         document.getElementById("main").style.opacity = "0.5";
     } else {
         document.getElementById("sidenav").style.width = "100%";
