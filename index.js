@@ -65,9 +65,13 @@ const navbar = () => {
 
 /* Set the width of the side navigation to 250px */
 function openNav() {
-    document.getElementById("sidenav").style.width = "640px";
-    document.getElementById("main").style.marginLeft = "640px";
-    document.getElementById("main").style.opacity = "0.5";
+    if (window.innerWidth > 721) {
+        document.getElementById("sidenav").style.width = "10%";
+        document.getElementById("main").style.marginLeft = "10%";
+        document.getElementById("main").style.opacity = "0.5";
+    } else {
+        document.getElementById("sidenav").style.width = "100%";
+    }
 }
 
 /* Set the width of the side navigation to 0 */
