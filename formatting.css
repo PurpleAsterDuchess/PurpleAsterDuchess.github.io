@@ -5,6 +5,7 @@ body {
     font-size: 20px;
     padding:15px;
     min-width: 345px; 
+    position: relative;
 }
 
 #main {
@@ -206,4 +207,15 @@ button:hover {
     border-radius: 8px;
     margin-left: 12px;
     margin-right: 12px;
+}
+
+#construction {
+    width: 70%;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

@@ -5,9 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/formatting.css">
     <title>Contact</title>
+    <link rel="stylesheet" 
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
-<body>
-    <h1>Under construction</h1>
-    <img src="/under_construction.png">
+<body onload="closeNav()">
+
+    <div id="sidenav" class="sidenav">
+        <div id="myLinks"></div>
+            <img id="image"
+                src="/bear.png" 
+                alt="bear">
+            <a href="javascript:void(0);" 
+               class="active" 
+               onclick="closeNav()">&times;</a>
+            <a href="/home/homepage.html">Home</a>
+            <a href="/index.html">My Blog</a>
+            <a href="/about/about.html">About</a>
+        </div>
+        <button class="icon" onclick="openNav()"><i class="fa fa-bars"></i></button>
+        
+    </div>
+    <div id="main">
+        <div id="header">
+            <h1 class="title">Under construction</h1>
+        </div>
+    <img class="center" src="/under_construction.png" alt="under_construction">
+    <script src="/index.js"></script>
 </body>
 </html>
