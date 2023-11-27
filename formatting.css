@@ -200,9 +200,10 @@ button:hover {
 }
 
 #image {
-    width: 80%;
+    width: 100%;
     display: block;
     padding: 5px;
     border-radius: 8px;
     margin-left: 12px;
+    margin-right: 12px;
 }
