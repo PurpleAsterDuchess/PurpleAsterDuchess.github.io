@@ -55,6 +55,28 @@ k.scene("main", async() => {
         "player",
 
     ]);
+
+    for (const layer of layers) {
+        if (layer.name == "bounds") {
+            for (const bounds of layer.objects) {
+                map.add([
+                    k.area({
+                        shape: new k.Rect(k.vec2(0), bounds.width, bounds.height),
+                    }),
+                    k.body({ isStatic: true }),
+                    k.pos(bounds.x, bounds.y),
+                    bounds.name,
+                ]);
+
+                if (bounds.name) {
+                    player.onCollide(bounds.name, () => {
+                        player.isInDialogue = true;
+                        // TODO
+                    })
+                }
+            }
+        }
+    }
 });
 
 k.go("main");
