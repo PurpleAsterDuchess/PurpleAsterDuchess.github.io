@@ -41,7 +41,7 @@ export const dialogueData = {
     </ul>
 
     I had a few other things I was working towards during my studies... you can walk around a bit and find out more about what they were`,
-    CV: ` You can learn about me in more detail here but if you're short on time, you could download my <a href="PrinaParekhCV.pdf.crdownload" download>CV</a>.`,
+    CV: ` You can learn about me in more detail here but if you're short on time, you could download my <a>CV</a>. It's not working yet but it will soon...`,
     "Code snippets": `I've done some bits of code for projects as well. I'm still compiling these but you could always come back later and have a look :)`,
     Volunteering: `I've done quite a bit of volunteering. I enjoy helping people and inspiring them. I've done some volunteering in a Covid vaccination center. It was very rewarding and it meant I could talk to a variety of people and I was able to comfort them through the uncertainty of getting vaccinated. I also did volunteering in a charity that aimed to raise money for children that could not afford an education. I had to organise events and raise money with a team. It taught me a lot about time management as well as working with and managing a team along with many other skills. I am also a STEM ambassador. I enjoy learning new things and I hope to inspire others to feel the same.`,
     DofE: `I've done DofE and gotten a certificate [cert]....`,
