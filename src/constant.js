@@ -41,5 +41,13 @@ export const dialogueData = {
     </ul>
 
     I had a few other things I was working towards during my studies... you can walk around a bit and find out more about what they were`,
+    CV: ` You can learn about me in more detail here but if you're short on time, you could download my <a href="PrinaParekhCV.pdf.crdownload" download>CV</a>.`,
+    "Code snippets": `I've done some bits of code for projects as well. I'm still compiling these but you could always come back later and have a look :)`,
+    Volunteering: `I've done quite a bit of volunteering. I enjoy helping people and inspiring them. I've done some volunteering in a Covid vaccination center. It was very rewarding and it meant I could talk to a variety of people and I was able to comfort them through the uncertainty of getting vaccinated. I also did volunteering in a charity that aimed to raise money for children that could not afford an education. I had to organise events and raise money with a team. It taught me a lot about time management as well as working with and managing a team along with many other skills. I am also a STEM ambassador. I enjoy learning new things and I hope to inspire others to feel the same.`,
+    DofE: `I've done DofE and gotten a certificate [cert]....`,
+    Piano: `I have gotten to grade 6 for Piano with an Merit. Piano is my favorite instrument. I started playing around 6. This wasn't always the case, but with time I grew to love it. I continued playing through both GCSEs and A-Levels, which is when I got my grade 6 certification.`,
+    Guitar: `I began with playing the acoustic guitar and bought an electric guitar a few years into my journey. I prefer playing electric because most technical songs are on electric, though there are quite a few good songs on acoustic that are fun to play.`,
+    Flute: `I started playing flute around 9 years old. It used to be my favorite instrument but I couldn't find many songs I wanted to learn on it after a while. I still enjoy playing it and would love to find more songs to spark my inspiration once again.`,
+    Singing: `I love singing! The voice is such a portable instrument and it's so versitile. `,
 
 }
