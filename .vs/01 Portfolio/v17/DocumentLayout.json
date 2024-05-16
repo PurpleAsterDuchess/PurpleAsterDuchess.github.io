@@ -3,31 +3,24 @@
   "WorkspaceRootPath": "C:\\Prina\\01 Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\a thing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\02 messing with tiled\\a thing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\src\\constant.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\constant.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\02 messing with tiled\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\02 messing with tiled\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\src\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -38,8 +31,23 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\kaboomCtx.js||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\a thing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\02 messing with tiled\\a thing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\.vs\\01 Portfolio\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\01 Portfolio\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\02 messing with tiled\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\02 messing with tiled\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Prina\\01 Portfolio\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,7 +57,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,26 +66,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "map.json",
-              "DocumentMoniker": "C:\\Prina\\02 messing with tiled\\map.json",
-              "RelativeDocumentMoniker": "..\\02 messing with tiled\\map.json",
-              "ToolTip": "C:\\Prina\\02 messing with tiled\\map.json",
-              "RelativeToolTip": "..\\02 messing with tiled\\map.json",
-              "ViewState": "AQIAAJsCAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-14T23:31:18.519Z"
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Prina\\01 Portfolio\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T17:34:46.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\package.json",
-              "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "C:\\Prina\\01 Portfolio\\package.json",
-              "RelativeToolTip": "package.json",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-14T23:13:31.182Z",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Prina\\01 Portfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-14T17:04:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\src\\main.js",
+              "RelativeDocumentMoniker": "src\\main.js",
+              "ToolTip": "C:\\Prina\\01 Portfolio\\src\\main.js",
+              "RelativeToolTip": "src\\main.js",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-12T13:32:12.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "utils.js",
+              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\src\\utils.js",
+              "RelativeDocumentMoniker": "src\\utils.js",
+              "ToolTip": "C:\\Prina\\01 Portfolio\\src\\utils.js",
+              "RelativeToolTip": "src\\utils.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T17:42:56.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kaboomCtx.js",
+              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\src\\kaboomCtx.js",
+              "RelativeDocumentMoniker": "src\\kaboomCtx.js",
+              "ToolTip": "C:\\Prina\\01 Portfolio\\src\\kaboomCtx.js",
+              "RelativeToolTip": "src\\kaboomCtx.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-12T13:24:02.661Z",
               "EditorCaption": ""
             },
             {
@@ -88,26 +136,40 @@
               "RelativeDocumentMoniker": "src\\constant.js",
               "ToolTip": "C:\\Prina\\01 Portfolio\\src\\constant.js",
               "RelativeToolTip": "src\\constant.js",
-              "ViewState": "AQIAACcAAAAAAAAAAAAgwDIAAABdAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACsAAACbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-05-14T17:22:24.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Prina\\01 Portfolio\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-14T17:04:11.696Z"
+              "DocumentIndex": 1,
+              "Title": "a thing.tsx",
+              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\a thing.tsx",
+              "RelativeDocumentMoniker": "public\\02 messing with tiled\\a thing.tsx",
+              "ToolTip": "C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\a thing.tsx",
+              "RelativeToolTip": "public\\02 messing with tiled\\a thing.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-14T13:10:59.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\.vs\\01 Portfolio\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": ".vs\\01 Portfolio\\v17\\DocumentLayout.json",
+              "ToolTip": "C:\\Prina\\01 Portfolio\\.vs\\01 Portfolio\\v17\\DocumentLayout.json",
+              "RelativeToolTip": ".vs\\01 Portfolio\\v17\\DocumentLayout.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T17:30:19.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "map.json",
               "DocumentMoniker": "C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\map.json",
               "RelativeDocumentMoniker": "public\\02 messing with tiled\\map.json",
@@ -119,19 +181,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "a thing.tsx",
-              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\a thing.tsx",
-              "RelativeDocumentMoniker": "public\\02 messing with tiled\\a thing.tsx",
-              "ToolTip": "C:\\Prina\\01 Portfolio\\public\\02 messing with tiled\\a thing.tsx",
-              "RelativeToolTip": "public\\02 messing with tiled\\a thing.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-14T13:10:59.274Z"
+              "DocumentIndex": 8,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Prina\\01 Portfolio\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T23:13:31.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "map.json",
+              "DocumentMoniker": "C:\\Prina\\02 messing with tiled\\map.json",
+              "RelativeDocumentMoniker": "..\\02 messing with tiled\\map.json",
+              "ToolTip": "C:\\Prina\\02 messing with tiled\\map.json",
+              "RelativeToolTip": "..\\02 messing with tiled\\map.json",
+              "ViewState": "AQIAAJsCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T23:31:18.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "vite.config.js",
               "DocumentMoniker": "C:\\Prina\\01 Portfolio\\vite.config.js",
               "RelativeDocumentMoniker": "vite.config.js",
@@ -140,43 +214,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-05-12T13:32:19.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.js",
-              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\src\\main.js",
-              "RelativeDocumentMoniker": "src\\main.js",
-              "ToolTip": "C:\\Prina\\01 Portfolio\\src\\main.js",
-              "RelativeToolTip": "src\\main.js",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowBsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-12T13:32:12.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "kaboomCtx.js",
-              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\src\\kaboomCtx.js",
-              "RelativeDocumentMoniker": "src\\kaboomCtx.js",
-              "ToolTip": "C:\\Prina\\01 Portfolio\\src\\kaboomCtx.js",
-              "RelativeToolTip": "src\\kaboomCtx.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-12T13:24:02.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "utils.js",
-              "DocumentMoniker": "C:\\Prina\\01 Portfolio\\src\\utils.js",
-              "RelativeDocumentMoniker": "src\\utils.js",
-              "ToolTip": "C:\\Prina\\01 Portfolio\\src\\utils.js",
-              "RelativeToolTip": "src\\utils.js",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-14T17:42:56.236Z"
             }
           ]
         }
