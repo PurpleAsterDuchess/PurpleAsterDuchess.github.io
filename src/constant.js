@@ -48,5 +48,4 @@ export const dialogueData = {
     CREATE: `I took part in this tripple threat theater group. We would perform shows and I would act, sing and dance in them. I learnt many things from there, including tap dancing.`,
     Hiking: `I love doing sports, one of my favorite things to do is Hiking. It's a lot of fun, especially when you get lost and have to find your way back to the trail.`,
     Skiing: `Skiing is my favorite sport! I love being in the mountains and seeing the sights. I'm very comfortable skiing down quite a few slopes and I hope to start doing some tricks soon!`,
-
-}
+};
