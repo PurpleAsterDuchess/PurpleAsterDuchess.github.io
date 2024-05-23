@@ -1,6 +1,6 @@
 import {defineConfig} from "vite";
 export default defineConfig({
-	base: "/01 Portfolio/",
+	base: "/PurpleAsterDuchess.github.io/",
 	build: {
 		minify: "terser",
 	}

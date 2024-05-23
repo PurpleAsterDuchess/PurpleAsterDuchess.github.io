@@ -44,7 +44,7 @@ export const dialogueData = {
     Singing: `I love singing! The voice is such a portable instrument and it's so versitile. `,
     Lambda: `I have done some Lambda Exams for poetry. For this, I had to memorise a poem and an extract from a play and act it out. I had a lot of fun with it and it taught me a lot about public speaking and body language when presenting.`,
     Swimming: `I used to love swimming! I did some grades on this too. I don't swim much anymore but I'm always up for it when there's an opportunity.`,
-    Art: `Ooh my art! I love drawing and I've been getting into different forms of art recently to further my skills. You could check out my <a href=https://www.instagram.com/prina_9?igsh=c3VqeGJ1NzFoeGFl>art account</a> to see some of my favorites!`,
+    Art: `Ooh my art! I love drawing and I've been getting into different forms of art recently to further my skills. You could check out my <a href=https://www.instagram.com/prina_9?igsh=c3VqeGJ1NzFoeGFl target = "_blank">art account</a> to see some of my favorites!`,
     CREATE: `I took part in this tripple threat theater group. We would perform shows and I would act, sing and dance in them. I learnt many things from there, including tap dancing.`,
     Hiking: `I love doing sports, one of my favorite things to do is Hiking. It's a lot of fun, especially when you get lost and have to find your way back to the trail.`,
     Skiing: `Skiing is my favorite sport! I love being in the mountains and seeing the sights. I'm very comfortable skiing down quite a few slopes and I hope to start doing some tricks soon!`,
